@@ -7,14 +7,14 @@
 Among the various experiences I had during my Field Work Practice (PKL), this project was the most memorable conclusion. This final project was born from the learning process, the challenges faced, and the notes collected throughout the PKL. In between writing reports and chasing deadlines, the draft of this project slowly took shape. After being neatly stored with the PKL report archives, I am now bringing it back to share. It would be a shame if the experiences and lessons learned were to remain confined to the report alone. Therefore, I am open to feedback and corrections so that this project can continue to be refined and provide mutual benefits.
 
 ## 🔍 **Background**
-The population of Bekasi City has increased significantly over the years. In 2022, the population of Bekasi City reached 2,590,257, an increase of 25,316 compared to the previous year. Bekasi City has an area of approximately 210.5 km², which is divided into 12 sub-districts, so that the increase in population has a direct impact on population density and the need for public facilities.
 
-Forecasting the population is very important so that the government can make the right policies. With predictions of the future population, the government can:
-- Identify potential problems such as traffic congestion, overcrowded settlements, clean water needs, health, education, and infrastructure.
-- Determine more optimal development and public service strategies.
-- Take advantage of opportunities in the fields of economy, investment, and spatial planning.
+Poverty is one of the socio-economic problems that remains a major concern in regional development, including in the city of Bekasi. Although Bekasi is known as a rapidly developing urban area, the dynamics of economic and population growth continue to pose challenges in efforts to improve community welfare. Data shows that poverty rates in Bekasi tend to decline, but have fluctuated in recent years. This condition indicates that the problem of poverty is not yet fully stable and is still influenced by various structural factors.
 
-Therefore, it is necessary to analyze and forecast the population of Bekasi City for the coming years so that development planning can be carried out effectively and on target.
+Theoretically, population size and the Human Development Index (HDI) are closely related to poverty levels. The HDI, which reflects the quality of education, health, and decent living standards, is expected to reduce poverty levels by increasing community productivity and competitiveness. On the other hand, population growth can have a double impact: it can be an economic potential if dominated by the productive age group, but it can also increase social pressure if not balanced with the availability of jobs and equitable development.
+
+However, this theoretical relationship does not always correspond with the empirical conditions in Bekasi City. Fluctuations in poverty rates indicate that increases in HDI and population growth do not necessarily automatically reduce poverty. Therefore, research is needed to test this relationship quantitatively.
+
+Research on the effect of population size and HDI on poverty levels was conducted using multiple linear regression analysis. This approach aims to identify the extent to which each variable contributes to changes in poverty levels. The results of this research are expected to provide an accurate empirical picture as a basis for formulating more effective development policies and poverty alleviation strategies in Bekasi City.
 
 ## 🔍 **Research Questions and Objectives**
 ### Research Questions

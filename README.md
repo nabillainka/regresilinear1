@@ -1,4 +1,4 @@
-# Forecasting the Population of Bekasi City
+# The Impact of Population Size and the Human Development Index on Poverty Rates in Bekasi City
 ![Project Header](https://github.com/nabillainka/peramalanpendudukkotabekasi/blob/main/foto/image%20(3).png)
 
 *Source: [Kompas - Car-Free Day hbkb](https://www.kompas.com/tag/hari-bebas-kendaraan-bermotor-hbkb)*
